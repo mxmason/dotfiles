@@ -38,7 +38,7 @@ brew install node
 brew install \
   git \
   github/gh/gh \
-  imagemagick --with-webp \
+  imagemagick \
   p7zip \
   pigz \
   pv \
